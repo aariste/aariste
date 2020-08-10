@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Adrià Ariste and I'm a Microsoft Dynamics 365 for Finance and Operations developer. If you don't work with it, it's highly probable that you don't know it at all, but it's Microsofts ERP from the Dynamics 365/Power Platform family.
+
+You can read my blog at [ariste.info](https://ariste.info) if you want to know more about Dynamics 365 and what I do.
+
 <!--
 **aariste/aariste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
